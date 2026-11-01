@@ -6,7 +6,7 @@ I turn ambiguous technical problems into shipped products — from on-device AI 
 
 ## Building now
 
-- **[ImplantCloud](https://implantcloud.ai)** — edge-native memory for AI agents. Runs in under 3MB of RAM for offline and edge devices, and doubles as middleware that cuts the tokens you send to LLMs. Co-building with a partner — I own product and vision, he leads engineering. Targeting YC, November 2026.
+- **[ImplantCloud](https://implantcloud.ai)** — edge-native memory for machines that can't rely on the cloud. RAM-resident, self-pruning, LLM-free memory for field machines; measured on a Raspberry Pi 4 (2.08–2.24 ms query latency, 30 reps; 321.5 KB brain file for 172.9 MB raw telemetry). Co-building with a partner — I own product and vision, he leads engineering. YC Winter 2027 applicant.
 - **[CHTRR](https://chtrr.com)** — real hangouts, real people, in person. Small local IRL hangout scenes with trust earned through verified attendance. Web + Android + iOS in development.
 
 ## Shipped (0→1)
